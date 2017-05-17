@@ -1,2 +1,5 @@
 # HELLOW-WORLD
-Just a project
+
+Hi, Everybody,
+
+I'm just trying ti express myself
