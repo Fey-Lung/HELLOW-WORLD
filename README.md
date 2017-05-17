@@ -2,4 +2,4 @@
 
 Hi, Everybody,
 
-I'm just trying ti express myself
+I'm just trying to express myself
